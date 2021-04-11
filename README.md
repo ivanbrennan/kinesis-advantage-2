@@ -15,3 +15,19 @@ of real estate (and I _know_ the Delete key does not).
 I had some trepidation about compatibility because I'm running NixOS, but so far it's been plug and play. And so far it seems
 to work fine alongside caps2esc and my X keyboard options (e.g. `shift:both_capslock`). It emits an annoying beep when I
 press CapsLock, but that appears to be a setting that can be disabled (and probably the first setting I'll change).
+
+# Status Report
+
+Generated in Insert mode by pressing progm + Esc
+```
+Model> Advantage2
+Firmware> 1.0.431.us (4MB), 11/14/2017
+Active layout file> qwerty.txt
+Thumb keys mode> win
+Macro play speed> off=0, slow=1, normal=3, fast=9> 3
+Status report play speed> off=0, slow=1, normal=3, fast=4> 3
+Keyclick status> on
+Toggle tone status> on
+Stored macros> 0
+Keys remapped> 0
+```
